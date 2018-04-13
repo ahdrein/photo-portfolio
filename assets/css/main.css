@@ -1457,7 +1457,7 @@ body {
 
 /* Intro */
 #intro {
-  background: url("images/overlay.png"), url("../../images/luo-ping-626344-unsplash_Easy-Resize.com.jpg");
+  background: url("images/overlay.png"), url("../../images/luo-ping-626344-unsplash_Easy-Resize.com (1).jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
@@ -1471,14 +1471,14 @@ body {
 
 /* o-que-faco */
 #o-que-faco {
-  background: url("images/overlay.png"), url("../../images/pankaj-patel-486489-unsplash_Easy-Resize.com.jpg");
+  background: url("images/overlay.png"), url("../../images/pankaj-patel-486489-unsplash_Easy-Resize.com (1).jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
 
 /* Quem Sou */
 #quem-sou {
-  background: url("images/overlay.png"), url("../../images/osman-rana-628480-unsplash_Easy-Resize.com.jpg");
+  background: url("images/overlay.png"), url("../../images/osman-rana-628480-unsplash_Easy-Resize.com (1).jpg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
